@@ -22,4 +22,3 @@ Se você já é desenvolvedor e quer clonar o repositório:
 1. Abra o seu terminal.
 2. Clone o repositório rodando o comando:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
